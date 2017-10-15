@@ -1,0 +1,17 @@
+{
+  "name": "shehacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.11.0"
+  },
+  "devDependencies": {
+    "restify": "^6.0.1"
+  }
+}
