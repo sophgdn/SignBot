@@ -1,6 +1,7 @@
 # SignBot
 SignBot was created in 24 hours as part of the 2017 sheHacks Hackackthon. 🏆 Winner of the **Best Machine Learning and API Integration** prize.
 
+<img src="http://i66.tinypic.com/34r6sg8.png" border="0" alt="signBot logo">
 
 This chatbot is an initial prototype of how LUIS, Microsoft's machine learning-based service, can be used to turn natural language speech into Australian Sign Language (ASL). The chatbot then uses this translation to call and send to users a video depicting how that message would look in sign language. Natural language is far more complex than the ASL vocabulary which consits of only several hundred words. LUIS is used to take complex sentaces and break them down into more simple sentaces that fit into the ASL vocabulary. For instance when passed through LUIS the words "chuck", "toss" and "pass" all become "throw" which is then translated into the sign for *throw*.
 
