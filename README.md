@@ -14,6 +14,6 @@ This chatbot could have many different applicaitons in the future including:
 <p align="center">
 <img src="https://s3-ap-southeast-2.amazonaws.com/www.sophgdn.com/github-images/signBot-github-1.png" />
 <img src="https://s3-ap-southeast-2.amazonaws.com/www.sophgdn.com/github-images/signBot-github-2.png" />
-<img src="https://s3-ap-southeast-2.amazonaws.com/www.sophgdn.com/github-images/signBot-github-6.png" />
+<img src="https://s3-ap-southeast-2.amazonaws.com/www.sophgdn.com/github-images/signBot-github-5.png" />
 <img src="https://s3-ap-southeast-2.amazonaws.com/www.sophgdn.com/github-images/signBot-github-4.png" />
 </p>
